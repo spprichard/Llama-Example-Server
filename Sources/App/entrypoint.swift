@@ -1,5 +1,6 @@
 import Vapor
 import Logging
+import llama
 
 @main
 enum Entrypoint {
